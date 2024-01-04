@@ -1,0 +1,27 @@
+.order-count{
+  height: 220px;
+  width: 32%;
+  margin-left: 1%;
+  --bs-border-radius: 5px;
+  background-image: linear-gradient(90turn,#245953,#57C5B6);
+  color: white;
+}
+
+.product-count{
+  height: 220px;
+  width: 32%;
+  margin-left: 1%;
+  --bs-border-radius: 5px;
+  background-image: linear-gradient(90turn,#245953,#57C5B6);
+  color: white;
+}
+
+
+.total-revenue{
+  height: 220px;
+  width: 32%;
+  margin-left: 1%;
+  --bs-border-radius: 5px;
+  background-image: linear-gradient(90turn,#245953,#57C5B6);
+  color: white;
+}
